@@ -1,4 +1,4 @@
-package ex8_largest_product_in_a_series;
+package ex008_largest_product_in_a_series;
 
 /***
  * 문자열에 대한 정적 메서드 제공 클래스

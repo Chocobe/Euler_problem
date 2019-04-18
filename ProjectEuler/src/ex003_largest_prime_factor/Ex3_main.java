@@ -1,4 +1,4 @@
-package ex3_largest_prime_factor;
+package ex003_largest_prime_factor;
 
 public class Ex3_main {
 	public static void main(String[] args) {

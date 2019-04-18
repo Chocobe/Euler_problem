@@ -1,4 +1,4 @@
-package ex1_multiples_of_3_and_5;
+package ex001_multiples_of_3_and_5;
 
 public class Ex1_main {
 	public static void main(String[] args) {

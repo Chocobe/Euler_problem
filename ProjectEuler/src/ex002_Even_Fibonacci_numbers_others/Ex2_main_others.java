@@ -1,4 +1,4 @@
-package ex2_Even_Fibonacci_numbers_others;
+package ex002_Even_Fibonacci_numbers_others;
 
 /***
  * 피보나치 수열을 살펴보자.

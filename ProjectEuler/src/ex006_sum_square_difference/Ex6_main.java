@@ -1,4 +1,4 @@
-package ex6_sum_square_difference;
+package ex006_sum_square_difference;
 
 public class Ex6_main {
 	public static void main(String[] args) {

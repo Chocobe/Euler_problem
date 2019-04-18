@@ -1,4 +1,4 @@
-package ex4_largest_palindrome_product;
+package ex004_largest_palindrome_product;
 
 public class Ex4_main {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ex5_smallest_multiple;
+package ex005_smallest_multiple;
 
 public class Ex5_calc {
 	

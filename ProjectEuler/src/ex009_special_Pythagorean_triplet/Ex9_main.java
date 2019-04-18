@@ -1,4 +1,4 @@
-package ex9_special_Pythagorean_triplet;
+package ex009_special_Pythagorean_triplet;
 
 public class Ex9_main {
 	public static void main(String[] args) {

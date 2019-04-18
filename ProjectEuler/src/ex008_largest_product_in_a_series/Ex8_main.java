@@ -1,4 +1,4 @@
-package ex8_largest_product_in_a_series;
+package ex008_largest_product_in_a_series;
 
 public class Ex8_main {
 	public static void main(String[] args) {

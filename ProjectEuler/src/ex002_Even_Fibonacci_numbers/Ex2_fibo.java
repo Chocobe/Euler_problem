@@ -1,4 +1,4 @@
-package ex2_Even_Fibonacci_numbers;
+package ex002_Even_Fibonacci_numbers;
 
 // 피보나치 수열의 진행과 짝수의 합을 위한 클래스
 public class Ex2_fibo {

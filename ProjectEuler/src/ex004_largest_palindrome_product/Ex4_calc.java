@@ -1,4 +1,4 @@
-package ex4_largest_palindrome_product;
+package ex004_largest_palindrome_product;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package ex7_10001st_prime;
+package ex007_10001st_prime;
 
 public class Ex7_main {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ex2_Even_Fibonacci_numbers;
+package ex002_Even_Fibonacci_numbers;
 
 public class Ex2_main {
 	public static void main(String[] args) {
