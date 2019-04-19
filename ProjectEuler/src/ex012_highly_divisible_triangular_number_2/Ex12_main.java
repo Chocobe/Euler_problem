@@ -3,7 +3,7 @@ package ex012_highly_divisible_triangular_number_2;
 public class Ex12_main {
 	public static void main(String[] args) {
 		
-		int purpose_factor = 500;
+		int purpose_factor = 2;
 		int cur_factor = 0;
 		
 		int cur_tri_num = 0;

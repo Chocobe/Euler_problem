@@ -43,6 +43,9 @@ public class Ex12_calc {
 				temp_target /= i;			// 연산의 중복 제거
 			}
 			
+			//수정 필요
+			// if(exponent 가 0일 때, exponent = 1;)
+			// else(
 			if(exponent != 0) {
 				factor_cnt *= (exponent + 1); 	// "지수"를 이용한 "인수 구하기 공식"
 												// a^m * b^n 의 인수 갯수는... (m + 1) * (n + 1) 이다.
