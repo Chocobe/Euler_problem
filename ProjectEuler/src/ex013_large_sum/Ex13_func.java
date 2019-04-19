@@ -1,4 +1,4 @@
-package ex13_large_sum;
+package ex013_large_sum;
 
 public class Ex13_func {
 
