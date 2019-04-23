@@ -126,7 +126,6 @@ public class Ex11_calc {
 	public static int left_diagonal(String[] _table, int _out_num) {
 		
 		int element_cnt = (_table[0].length() + 1) / 3;		// 테이블당 데이터 갯수
-		int table_cnt = _table.length;						// 테이블 갯수
 		
 		int max_mul = 1;			// 최대 결과값
 		int cur_mul = 1;			// 현재 결과값
