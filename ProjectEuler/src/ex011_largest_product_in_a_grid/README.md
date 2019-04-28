@@ -37,4 +37,4 @@ What is the greatest product of four adjacent numbers in the same direction
 이중 반복문의 루프 매개변수(i, j)의 의미는,
 찾고자하는 첫번째 인덱스 임을 생각해야 한다.
 
-당연한거지만... 확실히 하지 않으면 3중 반복문이 되는 순간 헷갈린다.
+당연한거지만... 확실히 하지 않으면 3중 반복문이 되는 순간 헷갈린다. 
